@@ -35,11 +35,12 @@ Building production-grade applications across mobile, backend, and AI/ML — fro
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Portfolio + AI Chat](https://github.com/ayusharyan1309/portfolio) | Personal portfolio with AI chatbot that answers about me — hosted, LLM-powered, demonstrates AI skills | Flutter, LLM, AI |
+| [OptiQuery AI-DBA](https://github.com/ayusharyan1309/Database-Administrator-AI-Agent) | AI-powered slow query detection with LLM diagnostics — real-time analysis, Redis, Kafka | Spring Boot, Flask, AI |
+| [Chat App Backend](https://github.com/ayusharyan1309/chat-app-backend) | Real-time chat backend — WebSocket, Firebase Auth, Kafka notifications, MySQL | Spring Boot, WebSocket, Kafka |
 | [MedTrendz](https://github.com/ayusharyan1309/medtrendz) | AI medical reports app on Play Store — PDF OCR, GPT-4o extraction, medicine reminders | Flutter, SQLite, OpenAI |
 | [Microservice Shop](https://github.com/ayusharyan1309/microserviceshop) | E-commerce microservices — 6 services, Kafka events, Keycloak auth, Prometheus monitoring | Spring Boot, Kafka, Docker |
 | [Wellness App](https://github.com/ayusharyan1309/wellness-app-backend) | Full-stack wellness platform — JWT auth, blog CMS, appointment booking, Redis caching | Spring Boot, Redis, Kafka |
-| [OptiQuery AI-DBA](https://github.com/ayusharyan1309/Database-Administrator-AI-Agent) | AI-powered slow query detection with LLM diagnostics | Spring Boot, Flask, AI |
-| [Amazon Clone](https://github.com/ayusharyan1309/E-CommerceApp) | Full e-commerce app — admin panel, cart, payments, analytics | Flutter, Node.js, Cloudinary |
 | [Chrome Extension](https://github.com/ayusharyan1309/chrome-extension) | AI resume tailoring — JD extraction, ATS scoring, LaTeX export | JavaScript, AI APIs |
 
 ---
