@@ -46,9 +46,13 @@ Building production-grade applications across mobile, backend, and AI/ML — fro
 
 ### 📊 GitHub Stats
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayusharyan1309&show_icons=true&theme=radical&hide_border=true)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayusharyan1309&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharyan1309&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharyan1309&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ayusharyan1309&theme=radical&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayusharyan1309&theme=radical&no-frame=true&no-bg=false&column=7)
 
 ---
 
