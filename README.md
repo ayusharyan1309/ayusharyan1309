@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hey, I'm Ayush Aryan 👋
 
-<!--
-**ayusharyan1309/ayusharyan1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Flutter + Spring Boot | AI/ML Enthusiast**
 
-Here are some ideas to get you started:
+Building production-grade applications across mobile, backend, and AI/ML — from Play Store published apps to microservices architectures with Kafka, Redis, and Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+
+**Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-17-E76F00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=flat&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Databases & Caching**
+![MongoDB](https://img.shields.io/badge/MongoDB-4.x-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7.x-DC382D?style=flat&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-24-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-1.x-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=flat&logo=jenkins&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[MedTrendz](https://github.com/ayusharyan1309/medtrendz)** | AI medical reports app on Play Store — PDF OCR, GPT-4o extraction, medicine reminders | Flutter, SQLite, OpenAI |
+| **[Microservice Shop](https://github.com/ayusharyan1309/microserviceshop)** | E-commerce microservices — 6 services, Kafka events, Keycloak auth, Prometheus monitoring | Spring Boot, Kafka, Docker |
+| **[Wellness App](https://github.com/ayusharyan1309/wellness-app-backend)** | Full-stack wellness platform — JWT auth, blog CMS, appointment booking, Redis caching | Spring Boot, Redis, Kafka |
+| **[OptiQuery AI-DBA](https://github.com/ayusharyan1309/Database-Administrator-AI-Agent)** | AI-powered slow query detection with LLM diagnostics | Spring Boot, Flask, AI |
+| **[Amazon Clone](https://github.com/ayusharyan1309/E-CommerceApp)** | Full e-commerce app — admin panel, cart, payments, analytics | Flutter, Node.js, Cloudinary |
+| **[Chrome Extension](https://github.com/ayusharyan1309/chrome-extension)** | AI resume tailoring — JD extraction, ATS scoring, LaTeX export | JavaScript, AI APIs |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayusharyan1309&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharyan1309&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+### 🏗️ Architecture I Work With
+
+```
+Client (Flutter/Web) → API Gateway → Microservices → Databases
+                                        ↓
+                                   Kafka Events
+                                        ↓
+                                   Notifications
+```
+
+**Core Skills:** Spring Boot Microservices • Event-Driven Architecture • Mobile App Development • AI/ML Integration • Docker/K8s Deployment • CI/CD Pipelines
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayusharyan1309)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ayusharyan1309)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayusharyan1309@gmail.com)
+
+---
+
+<div align="center">
+
+*"Building scalable systems, one microservice at a time."*
+
+</div>
