@@ -35,38 +35,34 @@ Building production-grade applications across mobile, backend, and AI/ML — fro
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[MedTrendz](https://github.com/ayusharyan1309/medtrendz)** | AI medical reports app on Play Store — PDF OCR, GPT-4o extraction, medicine reminders | Flutter, SQLite, OpenAI |
-| **[Microservice Shop](https://github.com/ayusharyan1309/microserviceshop)** | E-commerce microservices — 6 services, Kafka events, Keycloak auth, Prometheus monitoring | Spring Boot, Kafka, Docker |
-| **[Wellness App](https://github.com/ayusharyan1309/wellness-app-backend)** | Full-stack wellness platform — JWT auth, blog CMS, appointment booking, Redis caching | Spring Boot, Redis, Kafka |
-| **[OptiQuery AI-DBA](https://github.com/ayusharyan1309/Database-Administrator-AI-Agent)** | AI-powered slow query detection with LLM diagnostics | Spring Boot, Flask, AI |
-| **[Amazon Clone](https://github.com/ayusharyan1309/E-CommerceApp)** | Full e-commerce app — admin panel, cart, payments, analytics | Flutter, Node.js, Cloudinary |
-| **[Chrome Extension](https://github.com/ayusharyan1309/chrome-extension)** | AI resume tailoring — JD extraction, ATS scoring, LaTeX export | JavaScript, AI APIs |
+| [MedTrendz](https://github.com/ayusharyan1309/medtrendz) | AI medical reports app on Play Store — PDF OCR, GPT-4o extraction, medicine reminders | Flutter, SQLite, OpenAI |
+| [Microservice Shop](https://github.com/ayusharyan1309/microserviceshop) | E-commerce microservices — 6 services, Kafka events, Keycloak auth, Prometheus monitoring | Spring Boot, Kafka, Docker |
+| [Wellness App](https://github.com/ayusharyan1309/wellness-app-backend) | Full-stack wellness platform — JWT auth, blog CMS, appointment booking, Redis caching | Spring Boot, Redis, Kafka |
+| [OptiQuery AI-DBA](https://github.com/ayusharyan1309/Database-Administrator-AI-Agent) | AI-powered slow query detection with LLM diagnostics | Spring Boot, Flask, AI |
+| [Amazon Clone](https://github.com/ayusharyan1309/E-CommerceApp) | Full e-commerce app — admin panel, cart, payments, analytics | Flutter, Node.js, Cloudinary |
+| [Chrome Extension](https://github.com/ayusharyan1309/chrome-extension) | AI resume tailoring — JD extraction, ATS scoring, LaTeX export | JavaScript, AI APIs |
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayusharyan1309&show_icons=true&theme=radical&hide_border=true)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayusharyan1309&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusharyan1309&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
 ### 🏗️ Architecture I Work With
 
 ```
-Client (Flutter/Web) → API Gateway → Microservices → Databases
-                                        ↓
+Client (Flutter/Web) -> API Gateway -> Microservices -> Databases
+                                        |
                                    Kafka Events
-                                        ↓
+                                        |
                                    Notifications
 ```
 
-**Core Skills:** Spring Boot Microservices • Event-Driven Architecture • Mobile App Development • AI/ML Integration • Docker/K8s Deployment • CI/CD Pipelines
+**Core Skills:** Spring Boot Microservices | Event-Driven Architecture | Mobile App Development | AI/ML Integration | Docker/K8s Deployment | CI/CD Pipelines
 
 ---
 
@@ -78,8 +74,4 @@ Client (Flutter/Web) → API Gateway → Microservices → Databases
 
 ---
 
-<div align="center">
-
 *"Building scalable systems, one microservice at a time."*
-
-</div>
