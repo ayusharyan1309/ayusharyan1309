@@ -1,64 +1,45 @@
-# Hey, I'm Ayush Aryan 👋
+<img src="assets/banner.png" alt="Ayush Aryan: Java backend and GenAI engineer" width="100%">
 
-### Software Engineer · Java / Spring Boot · Flutter · AI
+# Ayush Aryan
 
-I build **production-grade backend systems and mobile applications**, with a focus on scalable APIs, microservices, event-driven systems, and AI-powered products.
+**Java backend engineer who also ships GenAI.** I build Spring Boot microservices and Kafka/Redis pipelines that run in production, and the LLM features – RAG, AI agents – that sit on top of them.
 
-Currently working with **Java, Spring Boot, Kafka, Redis, Flutter, Docker, and AI/LLM integrations.**
+Software Engineer (SDE-1) at [Visionify](https://www.visionify.ai/) · Hyderabad, India · open to Java backend and GenAI roles
 
----
-
-### 🛠️ Tech
-
-**Backend:** Java · Spring Boot · REST APIs · Microservices · Kafka · Redis · WebSocket
-**Mobile:** Flutter · Dart · Firebase
-**Databases:** MySQL · PostgreSQL · MongoDB
-**DevOps:** Docker · Kubernetes · Jenkins · AWS
-**AI:** Python · LLMs · OpenAI APIs · AI Agents
+[**Portfolio + live RAG assistant**](https://ayush-aryan1309-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ayusharyan1309/) · [Email](mailto:ayusharyan1309@gmail.com)
 
 ---
 
-### 🚀 Featured Projects
+### In production
 
-**[OptiQuery AI-DBA](https://github.com/ayusharyan1309/Database-Administrator-AI-Agent)**
-AI-powered database monitoring and slow-query diagnosis using LLMs, Kafka and Redis.
+- **Visionify** – I own the event-driven alerting platform that turns computer-vision detections into safety alerts on Email, Microsoft Teams and WhatsApp: **10K+ events a day, API responses under 150 ms**. I also lead PalletVision end to end: the CV model, the backend and the frontend.
+- **EventStrat** – Spring Boot microservices for a global event-CRM platform with **100K+ concurrent users**, including a fault-tolerant Kafka ingestion pipeline handling 2K+ files of 50K+ rows per batch.
 
-**[Microservice Shop](https://github.com/ayusharyan1309/microserviceshop)**
-E-commerce backend built with Spring Boot microservices, Kafka, Keycloak and Docker.
+### GenAI projects
 
-**[Chat App Backend](https://github.com/ayusharyan1309/chat-app-backend)**
-Real-time messaging backend using WebSocket, Kafka, Firebase Authentication and MySQL.
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**OptiQuery**](https://github.com/ayusharyan1309/Database-Administrator-AI-Agent) | AI database-administrator agent. Ranks Postgres queries by total time burned, asks an LLM what is wrong, and proposes a fix with the evidence (execution plans, schema) attached so engineers can check it. | Java, Spring Boot, PostgreSQL, LLMs |
+| [**RAG assistant**](https://github.com/ayusharyan1309/portfolio) | Answers recruiters' questions about my work: Workers AI embeddings, top-5 cosine retrieval, LLM answers streamed over SSE, swappable providers. [Try it live.](https://ayush-aryan1309-portfolio.vercel.app) | TypeScript, Cloudflare Workers, Groq / OpenAI / Gemini |
+| [**JD Resume Tailor**](https://github.com/ayusharyan1309/chrome-extension) | Chrome extension that extracts a job description, scores the resume match and uses an LLM to tailor the resume, with LaTeX export. | React, OpenAI / Gemini |
+| [**MedTrendz**](https://github.com/ayusharyan1309/MedTrendz-An-Ai-Medical-Help-App) | Play Store app that reads lab values from medical reports with GPT-4o-mini OCR and plots trends, plus medicine reminders. | Flutter, GPT-4o-mini |
 
-**[MedTrendz](https://github.com/ayusharyan1309/medtrendz)**
-AI-powered medical report application with OCR, GPT-4o extraction and medicine reminders.
+### Backend projects
 
-**[Portfolio + AI Chat](https://github.com/ayusharyan1309/portfolio)**
-Personal portfolio with an AI chatbot capable of answering questions about my experience and projects.
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**Microservice Shop**](https://github.com/ayusharyan1309/MicroServices-ECommerce-APP) | Six Spring Boot services behind Spring Cloud Gateway, with Keycloak OAuth2, Kafka events and distributed tracing. | Java, Spring Cloud, Kafka, Keycloak, PostgreSQL, MongoDB |
+| [**Real-time chat backend**](https://github.com/ayusharyan1309/chat-app-backend) | WebSocket (STOMP) messaging, Kafka events, Firebase auth, Liquibase migrations and S3 media. | Java 17, Spring Boot 3.5, MySQL |
+| [**Wellness platform backend**](https://github.com/ayusharyan1309/Wellness-App-Backend) | Appointment booking where Redis slot management cut scheduling latency ~40% and ended double-booking; Kafka notifications, JWT auth. | Spring Boot, Redis, Kafka, Docker |
 
----
+### Stack
 
-### 🏗️ What I Build
-
-```text
-Flutter / Web
-      ↓
-API Gateway
-      ↓
-Spring Boot Services
-      ↓
-MySQL / PostgreSQL / MongoDB
-      ↓
-Kafka → Redis → Notifications
-```
-
-**Focus:** Distributed Systems · Backend Engineering · Mobile Development · AI Integration
+**Backend** – Java · Spring Boot · Spring Cloud · Microservices · REST · gRPC · WebSockets · Hibernate/JPA  
+**Messaging and data** – Apache Kafka · Redis · MySQL · PostgreSQL · MongoDB · Elasticsearch  
+**GenAI** – RAG · LLM APIs (OpenAI, Gemini, Groq) · LangChain4j · LangChain · embeddings and vector search  
+**Cloud and DevOps** – AWS (EC2, S3) · Docker · Jenkins CI/CD · Prometheus · Grafana  
+**Also** – Python · TypeScript · Flutter
 
 ---
 
-### 📫 Connect
-
-[LinkedIn](https://linkedin.com/in/ayusharyan1309) ·
-[GitHub](https://github.com/ayusharyan1309) ·
-[Email](mailto:ayusharyan1309@gmail.com)
-
-> Building scalable systems, one service at a time.
+Hiring for Java backend or GenAI? [ayusharyan1309@gmail.com](mailto:ayusharyan1309@gmail.com)
