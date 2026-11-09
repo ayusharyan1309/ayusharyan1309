@@ -1,6 +1,6 @@
 <img src="assets/banner.png" alt="Ayush Aryan: Java backend and GenAI engineer" width="100%">
 
-# Ayush Aryan
+# Ayush Aryan 
 
 **Java backend engineer who also ships GenAI.** I build Spring Boot microservices and Kafka/Redis pipelines that run in production, and the LLM features – RAG, AI agents – that sit on top of them.
 
